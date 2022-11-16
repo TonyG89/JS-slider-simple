@@ -1,3 +1,3 @@
-# simple slider 
+# slider simple
 
-### [demo]()
+### [demo](https://okylistik.github.io/JS-slider-simple)
