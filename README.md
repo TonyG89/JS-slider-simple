@@ -1,3 +1,3 @@
 # slider simple
 
-### [demo](https://okylistik.github.io/JS-slider-simple)
+### [demo](https://tonyg89.github.io/JS-slider-simple/)
